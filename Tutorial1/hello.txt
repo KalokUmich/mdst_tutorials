@@ -1,0 +1,4 @@
+Name: Ka Lok Kam
+School: School of information
+Major: Applied Data Science
+About myself: I am currently work as a program manager in a software company which is developing a financial app. I like data analysis and data visualization. Recently I am learning RAFT and hope I could know more about distributed system.
